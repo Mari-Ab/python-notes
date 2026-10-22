@@ -1,7 +1,6 @@
 Comprehensive Python Cheatsheet
 ===============================
-<sup>[Download text file]
-</sup>
+
 
 ![Monty Python](web/image_888.jpeg)
 
@@ -3582,8 +3581,4 @@ if __name__ == '__main__':
 ```
 
 
-Index
------
-* **Ctrl+F / ⌘F is usually sufficient.**
-* **Searching `'#<title>'` on the [webpage](https://gto76.github.io/python-cheatsheet/) will limit the search to the titles.**
-* **Click on the title's `'🔗'` to get a link to its section.**
+
